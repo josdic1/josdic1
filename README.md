@@ -8,6 +8,7 @@ Full-stack developer | React + Python/Flask
 - [aTrakk](https://github.com/josdic1/atrakk-demo) - Music project tracker
 - [Bookafella](https://github.com/josdic1/bookafella-demo) - Private club reservations
 - [LaundroSpin](https://github.com/josdic1/suddsy-demo) - Laundromat management
+- [Auto Dealer Offers](https://josdic1.github.io/appliance-demo) - Compliant lease/buy offer generator
 
 ### Music
 - [Dare County](https://open.spotify.com/artist/3x6K65pMW3Ei35TXKC03rL) - Pop/EDM ghostwriting
