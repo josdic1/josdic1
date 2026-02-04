@@ -1,9 +1,9 @@
 ## Hi, I'm Josh
 
-Full-stack developer | React + Python/Flask
+Full-stack developer | React + Python/FastAPI
 
 ### Projects
-- [Inlet](https://github.com/josdic1/inlet) - Job search command center and activity tracker
+- [Inlet](https://github.com/josdic1/inlet) - Job search command center built with FastAPI & React
 - [SlateSnap](https://github.com/josdic1/slater) - Photo documentation for roofing crews
 - [LaundroSpin](https://github.com/josdic1/suddsy-demo) - Laundromat management
 - [aTrakk](https://github.com/josdic1/atrakk-demo) - Music project tracker
